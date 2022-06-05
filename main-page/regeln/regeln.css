@@ -1,0 +1,14 @@
+body {
+  font-family: "Calibri";
+}
+
+h1 {
+  text-align: center;
+}
+
+#regeln {
+  padding: 1rem;
+}
+.regeltext {
+  font-size: 1.1rem;
+}

@@ -1,0 +1,17 @@
+body {
+  font-family: "Calibri";
+}
+h1 {
+  text-align: center;
+}
+.beschreibung-text {
+  font-size: 1.1rem;
+}
+.textdiv {
+  padding: 1rem;
+}
+#team-pic {
+  width: 746px;
+  height: 420px;
+  border-radius: 1rem;
+}

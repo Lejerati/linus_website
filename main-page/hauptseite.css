@@ -1,0 +1,39 @@
+body {
+  background: url("img/signal_iduna.jpg") repeat 0 0;
+  font-family: "Calibri";
+  background-size: auto;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50pt;
+  color: green;
+}
+
+h2 {
+  text-align: center;
+  color: green;
+  font-size: 28px;
+}
+
+#huan {
+  text-align: center;
+}
+#Verlinkung1 {
+  padding-right: 40px;
+  float: right;
+}
+#Verlinkung2 {
+  padding: 0 auto;
+}
+#Verlinkung3 {
+  float: left;
+  padding-left: 40px;
+}
+.links-top {
+  color: green;
+}
+.span-top {
+  font-weight: bold;
+  font-size: 20px;
+}

@@ -1,0 +1,14 @@
+body {
+  font-family: "Calibri";
+  background: url("img/fans.jpg") repeat 0 0;
+  color: white;
+}
+h1 {
+  text-align: center;
+}
+.beschreibung-text {
+  font-size: 1.1rem;
+}
+.textdiv {
+  padding: 1rem;
+}
